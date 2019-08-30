@@ -9,6 +9,7 @@ TODO:
 - Improve logic
 - Degeneralise: allow non 9x9 grids
 - Jigsawdoku?
+- Allow brute force capability (to be switched on/off)
 """
 import argparse
 
